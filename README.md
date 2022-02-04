@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AlexisWolfWaisman
+- 👀 I’m interested in AI, ML, Videogames
+- 🌱 I’m currently learning Automation with python
+- 📫 How to reach me: alexiswolfwaisman@gmail.com
